@@ -26,4 +26,6 @@ description{
   object-position:right;
   deisplay:flex;
   align-items:center;
+  justify-content:center;
+  z-index:-1;
 }
